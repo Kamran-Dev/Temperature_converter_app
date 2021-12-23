@@ -127,5 +127,4 @@ radio_fahrenheit2.grid(row=3, column=1)
 frame_bottom.grid(row=4, column=0, columnspan=2)
 result_label.grid(row=5, column=0, columnspan=2)
 
-
 window.mainloop()
