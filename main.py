@@ -19,6 +19,7 @@ center_y = (screen_height/2) - (app_height/2) # find the location of app on the 
 window.config(background="#aedb9f")
 window.geometry("{}x{}+{}+{}".format(app_width, app_height, int(center_x), int(center_y)))
 
+
 grid_height = 2
 grid_width = 20
 
