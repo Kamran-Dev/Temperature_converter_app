@@ -8,8 +8,8 @@ from tkinter import *
 window = Tk()
 window.title("Converter app")
 
-app_width = 500
-app_height = 350
+app_width = 490
+app_height = 320
 screen_width = window.winfo_screenwidth() # width of the screen
 screen_height = window.winfo_screenheight() # height of the screen
 
@@ -18,6 +18,8 @@ center_y = (screen_height/2) - (app_height/2) # find the location of app on the 
 
 window.config(background="#aedb9f")
 window.geometry("{}x{}+{}+{}".format(app_width, app_height, int(center_x), int(center_y)))
+window.minsize(app_width, app_height)
+
 
 
 grid_height = 2
@@ -27,7 +29,6 @@ frame1 = Frame(window,
                bg="#d2f1fa",
                bd=1,
                relief="solid")
-#frame1.place(x=50, y=35)
 frame1.pack(pady=35)
 
 input_label = Label(frame1,
