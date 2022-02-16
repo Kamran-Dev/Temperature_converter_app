@@ -1,7 +1,7 @@
 ## Temperature_converter_app <br />
  Temperature converter desktop app. (Python - Tkinter framework) <br />
  A converter application converts between Fahrenheit (°F), Celsius (°C) and Kelvin (K). <br /> <br />
- ![Screenshot of Converter](https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_app.png)  <br />
+ ![Screenshot of Converter](https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_app.png width="100" height="100") <br />
 
 ## Installation 🔌  <br />
 1. Download the repository files (project) from the download section.  <br />
