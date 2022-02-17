@@ -6,8 +6,9 @@
 
 ## Installation 🔌  <br />
 1. Download the repository files (project) from the download section.  <br />
-2. Run .py file.  <br />
-3. Or just download and run .exe file in your computer.
+2. Run Converter.exe file on your computer.  <br />
+
+ <a href="url"><img src="https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_Desktop.png" align="center" height="100" width="100" > <br />
 
 ## Contributing 💡
 You are very welcome if you want to contribute to this project and make it better with new ideas. <br />
