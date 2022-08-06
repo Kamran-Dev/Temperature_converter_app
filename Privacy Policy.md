@@ -14,6 +14,6 @@ This app does not contain any kind of advertisement. <br />
 
 ## Contact Information <br />
 If you have any questions or suggestions, please do not hesitate to contact me. <br />
-Email: kamranrashidov@gmail.com <br />
-GitHub: https://github.com/Kamran-Dev <br />
+- Email: kamranrashidov@gmail.com <br />
+- GitHub: https://github.com/Kamran-Dev <br />
 
