@@ -7,6 +7,7 @@ from tkinter import *
 
 window = Tk()
 window.title("Temperature Unit Converter")
+window.iconbitmap("App_icon.ico")
 
 app_width = 490
 app_height = 320
