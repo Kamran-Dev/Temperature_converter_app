@@ -8,6 +8,6 @@ No any user data collected or used by this app.
 No any user data shared with 3rd party services.
 
 ## Contact Information <br />
-If you have any questions or suggestions, please do not hesitate to contact me.
-Email: kamranrashidov@gmail.com
-GitHub: https://github.com/Kamran-Dev
+If you have any questions or suggestions, please do not hesitate to contact me. <br />
+Email: kamranrashidov@gmail.com <br />
+GitHub: https://github.com/Kamran-Dev <br />
