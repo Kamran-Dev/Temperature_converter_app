@@ -1,5 +1,7 @@
 # Privacy Policy <br />
-Temperature Converter Application takes your privacy seriously. 
+Temperature Converter Application takes your privacy seriously. <br /> <br />
+
+This page is used to inform users ("you") regarding my policies with the collection, use, and disclosure of personal information if anyone decided to use this service.
 
 ## Information collection and use <br />
 No any user data collected or used by this app.
