@@ -4,7 +4,8 @@
 
  <a href="url"><img src="https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_app.png" align="center" height="289" width="400" > <br />
 
-## Installation 🔌  <br />
+## Installation from Microsoft Store 🔌  <br />
+The application has been published in Microsoft Store. You can easily download it from the link below. <br />
 1. Download the repository files (project) from the download section.  <br />
 2. Run Converter.exe file on your computer.  <br />
 
