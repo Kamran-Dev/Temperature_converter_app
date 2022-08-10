@@ -9,7 +9,7 @@ The application has been published in Microsoft Store. <br />
 You can easily download it from [Microsoft Store](https://www.microsoft.com/store/productId/9PHKKZGRQ0L1). <br />
 Link: https://www.microsoft.com/store/productId/9PHKKZGRQ0L1 <br />
 
- <a href="url"><img src="https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_Microsoft_Store.png" align="center" height="540" width="960" > <br />
+ <a href="url"><img src="https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_Microsoft_Store.png" align="center" height="1080" width="1920" > <br />
 
 ## Installation from exe file 	🔧 <br />
 
