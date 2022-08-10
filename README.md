@@ -11,7 +11,7 @@ Link: https://www.microsoft.com/store/productId/9PHKKZGRQ0L1 <br />
 
  <a href="url"><img src="https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_Microsoft_Store.png" align="center" height="540" width="960" > <br />
 
-## Installation from exe file <br />
+## Installation from exe file 	🔧 <br />
 
 1. Download the repository files (project) from the download section.  <br />
 2. Run Converter.exe file on your computer.  <br />
