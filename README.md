@@ -5,7 +5,8 @@
  <a href="url"><img src="https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_app.png" align="center" height="289" width="400" > <br />
 
 ## Installation from Microsoft Store 🔌  <br />
-The application has been published in Microsoft Store. You can easily download it from [Microsoft Store](https://www.microsoft.com/store/productId/9PHKKZGRQ0L1/). <br />
+The application has been published in Microsoft Store. <br />
+You can easily download it from [Microsoft Store](https://www.microsoft.com/store/productId/9PHKKZGRQ0L1). <br />
 
  <a href="url"><img src="https://github.com/Kamran-Dev/Temperature_converter_app/blob/main/Screenshot_Desktop.png" align="center" height="100" width="100" > <br />
 
